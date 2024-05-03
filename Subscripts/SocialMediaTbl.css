@@ -1,0 +1,16 @@
+.container {
+  position: absolute;  /* Remove from normal document flow */
+  top: 50px;  /* Set top position */
+  left: 100px;  /* Set left position */
+  width: 600px;  /* Set container width */
+  height: 300px;  /* Set container height */
+  background-color: #f2f2f2;  /* Optional: Visualize container */
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;  /* Stretch table to fill container */
+  margin: 10px;  /* Add some margin for visual clarity */
+}
+
+/* ... Other table styling ... */

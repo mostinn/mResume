@@ -1,13 +1,23 @@
-name: "my-website"
+name: "Stefansson"
 navbar:
-  title: "My Website"
+  title: "Magnus Orn Stefansson"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Click Me!"
-      href: practice.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Research"
+      href: research.html
+    - text: "Awards"
+      href: awards.html
+    - text: "Affiliations"
+      href: affiliations.html
+    - text: "Publications"
+      href: publications.html
+    #- text: "Click Me!"
+      #href: practice.html
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
+    highlight: tango
+      

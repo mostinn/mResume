@@ -1,0 +1,81 @@
+---
+title: "_Affiliations_"
+
+---
+
+<html lang="en">
+<h2> -- past and present </h2>
+<bt></br>
+<head>
+  <title>Table Logo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_affil"></div>
+<table class="table_affil">
+  <tr>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/ICES_Logo.png" alt="ICES_logo" onclick="window.open('https://www.ices.dk/Pages/default.aspx','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/EU3_Logo.jpeg" onclick="window.open('https://commission.europa.eu/index_en','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/BHM_Logo.jpeg" alt="BHM_logo" onclick="window.open('https://www.bhm.is/en','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Kopavogur_Logo.png" alt="Kopavogur_logo" onclick="window.open('https://www.kopavogur.is/','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_affil"></th>
+  </tr>
+  </table>
+</body>
+<br></br>
+
+* <b>nList Publishing,</b> <i>Chair of Board of Directors</i>
+* <b>University of Iceland, Department of Biology,</b> <i>Member of Board</i> 
+* <b>University of Iceland, Department of Biology, Educational Committee,</b> Member of Committee</i> 
+* <b>Culture Committee of Skagastrond,</b> <i>Member of Committee</i> 
+* <b>Health Board of the District of Kopavogur,</b> <i>Member of Board</i> 
+* <b>Kopavogur College,</b> <i>Member of Board</i>
+* <b>Association of University Teachers in Akureyri, Iceland,</b> <i>Member</i> 
+* <b>Icelandic Confederation of University Graduates, Reykjavik, Iceland,</b> <i>Member</i> 
+* <b>The Ecological Society of Iceland,</b> <i>Member</i> 
+* <b>Nordic Lipidforum, Scandinavia,</b> <i>Member</i>
+* <b>Park Ltd.,</b> <i>Member of Board of Directors</i> 
+* <b>European funded projects on redfish and cod,</b> <i>Member of several Delegations</i> 
+* <b>Icelandic Delegation on redfish stock structure at the International Council for the Exploration of the Sea (ICES),</b> <i>Member</i> 
+* <b>Icelandic Delegation of Stock Identity and Management Units of Redfish (SGSIMUR), ICES,</b> <i>Member</i> 
+<br></br>
+
+<head>
+  <title>Table Logo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_affil"></div>
+<table class="table_affil">
+  <tr>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/nList_Logo.jpg" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Lipidforum_Logo2.jpeg" alt="Lipidforum logo" onclick="window.open('https://lipidforum.info/','_blank')" class="img_affil"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/MK_Logo.svg" onclick="window.open('https://www.mk.is/um-skolann/ymislegt/english','_blank')"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
+  </tr>
+  </table>
+</body>
+<br></br>
+
+ <!-- Footer: -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact me!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>
+

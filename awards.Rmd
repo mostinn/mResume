@@ -1,0 +1,195 @@
+---
+title: "_Awards_"
+
+---
+
+<html lang="en">
+<head>
+  <title>Table Logo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_logo"></div>
+<table class="table_logo">
+  <tr>
+    <th>			<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Harvard_Logo.png" alt="Harvard_logo" onclick="window.open('https://www.harvard.edu','_blank')" class="img_awrds"></th>
+    <th>		  <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/NIH_Logo.png" alt="NIH logo" onclick="window.open('https://www.nih.gov','_blank')" class="img_awrds"></th>
+    <th>		  <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Templeton_Logo.svg" alt="Templeton_logo" onclick="window.open('https://www.templeton.org/','_blank')" class="img_awrds"></th>
+    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/PaulAllen_Logo.png" alt="Allen_logo" onclick="window.open('https://pgafamilyfoundation.org/','_blank')" class="img_awrds"></th>
+  </tr>
+  </table>
+</body>
+
+
+<h2>Awarded to the Reich Lab, Harvard University -- Various ancient human DNA projects</h2>
+<ul>
+  <li>National Institute of Health, USA</li> 
+  <li>John Templeton Foundation, USA</li> 
+  <li>Paul Allen Family Foundation, USA</li> 
+  <li>Private funding, USA and EU</li> 
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/GovernmentOfIceland_Logo.png" onclick="window.open('https://www.government.is/ministries/ministry-of-food-agriculture-and-fisheries/','_blank')" class="img_awrds">  
+
+<h2>The Government of Iceland, Ministry of Food, Agriculture and Fisheries</h2>
+<ul>
+  <li>Examination of the feasibility of obtaining products from heterotrophic microalgae (Thraustochytriaceae) in culture</li>
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<table class="table_logo">
+    <tr>
+      <th>
+			  <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Matvaelasjodur_Logo.png" onclick="window.open('https://www.stjornarradid.is/verkefni/atvinnuvegir/matvaeli-og-matvaelaoryggi/matvaelasjodur/','_blank')" class="img_awrds">
+      </th>
+	    <th>
+		<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Avs_Logo.jpeg" class="img_awrds">
+	    </th>
+    </tr>
+</table>
+
+<h2>R&D Fund of the Government of Iceland</h2>
+<ul>
+  <li>Production of high-value products from macro algae</li>
+  <li>Examination of the viability of obtaining products from heterotrophic microalgae (Thraustochytriaceae) in culture</li>
+  <li>Chemically controlled lipogenesis of microalgae for increased product yield</li>
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Rannis_Logo.png" onclick="window.open('https://www.en.rannis.is/','_blank')" class="img_awrds">
+
+<h2>The Icelandic Center for Research</h2>
+<ul>
+  <li>Utilization of by-products from fisheries and agriculture to formulate media for heterotrophic microalgae</li>
+  <li>Scaling up of cultures for the production of polyunsaturated omega-3 fatty acids using heterotrophic microalgae</li>
+  <li>Several grants for laboratory equipment and infrastructure</li> 
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Hafro_Logo.png" onclick="window.open('https://www.hafogvatn.is/','_blank')" class="img_awrds">
+
+<h2>Marine and Freshwater Institute</h2>
+<ul>
+	<li>Several grants for research on the population genetics and the evolution of redfish</li>
+	<li>The use of molecular genetics in the breeding of halibut for culture</li>
+</ul>
+  
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/SSNV_Logo.png" onclick="window.open('https://www.ssnv.is/','_blank')" class="img_awrds">
+
+<h2>SSNV of the Regional Government of Northwest Iceland</h2>
+<ul>
+	<li>Economic Development Fund
+  <ul>
+    <li>Utilization of by-products from fish processing for media formulation for heterotrophic microalgae</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+<li>Cultural Development
+	<ul>
+		<li>Publication of Iceview Magazine, Volume 1</li> 
+		<li>Publication of Iceview Magazine, Volume 2</li> 
+		<li>Publication of Iceview Magazine, Volume 3</li> 
+	</ul>
+</li>
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/UCC_Logo.png" onclick="window.open('https://www.ucc.ie/','_blank')" class="img_awrds">
+
+<h2>University College Cork</h2>
+<ul>
+  <li>Ph.D. fully funded</li>
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<html lang="en">
+<head>
+  <title>Table Logo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_logo"></div>
+<table class="table_logo">
+    <tr>
+      <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/EU3_Logo.jpeg" onclick="window.open('https://cordis.europa.eu/article/id/9008-training-and-mobility-of-researchers-training-through-research','_blank')" class="img_awrds"></th>
+	  <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Aquatt_Logo.png" onclick="window.open('https://cordis.europa.eu/article/id/9008-training-and-mobility-of-researchers-training-through-research','_blank')" class="img_awrds"></th>
+    </tr>
+</table>
+</body>
+
+<h2>European Commission</h2>
+<ul>
+  <li>EU-COMETT Program, University Enterprise Training Partnership, EU
+    <ul>
+      <li>Student grant</li>
+    </ul>
+  </li>
+  <li>Training and Mobility of Researcher Program (TMR) of the EU
+    <ul>
+      <li>Student grant</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Bioval_Logo.svg" onclick="window.open('https://bioval.org/','_blank')" class="img_awrds">
+
+<h2>Bioval, Regional Government of Valencia, Spain<</h2>
+  <ul>
+    <li>Development of biosensors</li>
+  </ul>
+
+<div class="line"></div>
+<br></br>
+
+<img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Torres_Logo.png" onclick="window.open('https://investigacion.us.es/convocatorias/ver/135/0#:~:text=El%20objeto%20del%20Programa%20Torres,con%20su%20preparaci%C3%B3n%20y%20titulaci%C3%B3n.','_blank')" class="img_awrds">
+
+<h2>Programa Torres Quevedo, Government of Spain</h2>
+  <ul>
+    <li>Development of biosensors</li>
+  </ul>
+
+<div class="line"></div>
+<br></br>
+</html>
+
+ <!-- Footer: -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact me!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>
+

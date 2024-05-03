@@ -1,0 +1,21 @@
+/* CSS styles for the table */
+.table-container {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.header {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
