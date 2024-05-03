@@ -1,0 +1,31 @@
+---
+title: "_Publications_"
+bibliography: C:/Users/mosti/OneDrive/Documents/ReferenceLibrary/library_most_SelectedPublications.bib
+biblatex: true
+nocite: '@*'
+
+---
+
+# Selected publications, presentations, posters, technical reports and student projects
+
+::: {#refs}
+:::
+
+<br></br>
+
+ <!-- Footer: -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact me!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>

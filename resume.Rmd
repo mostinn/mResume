@@ -1,0 +1,152 @@
+---
+title: "_Resume_"
+---
+
+<html lang="en">
+
+<h2>Experience</h2>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Experience</title>
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_rsm"></div>
+  <table class="table_rsm">
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/nList_Logo.jpg" class="img_rsm"></td>
+      <td>
+        <b>Consulting Scientist,</b> nList; Sturbridge, MA
+      </td>
+    </tr>  
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Exponent_Logo.jpeg" onclick="window.open('https://www.exponent.com/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Managing Scientist,</b> Exponent Inc.; Natick, MA
+      </td>
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Harvard_Logo.png" onclick="window.open('https://www.harvard.edu/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Research Manager,</b> Harvard University; Cambridge, MA
+      </td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Iceview_Logo.png" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Founder and Managing Editor,</b> Iceview Magazine; Iceland
+      </td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Unak_Logo.png" onclick="window.open('https://www.unak.is/english','_blank')" class="img_rsm"></td>
+      <td><b>Research Fellow,</b> University of Akureyri & BioPol Ltd.; Iceland</td>
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Biosensores_Logo.png" onclick="window.open('https://www.biosensores.com/','_blank')" class="img_rsm"></td>
+      <td><b>Chief Scientific Officer,</b> Biosensores, S.L.; Spain</td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Landspitali_Logo.jpeg" onclick="window.open('https://www.landspitali.is/default.aspx?pageid=deac0479-05aa-11e8-90f1-005056be0005','_blank')" class="img_rsm"></td>
+      <td><b>Project Manager,</b> Office of the CEO, National University Hospital; Iceland</td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/MFRI_Logo.png" onclick="window.open('https://www.hafogvatn.is/en','_blank')" class="img_rsm"></td>
+      <td><b>Senior Scientist / Interim Head of Laboratory,</b> Marine and Freshwater Research Institute; Iceland</td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/UCC_Logo.png" onclick="window.open('https://www.ucc.ie','_blank')" class="img_rsm"></td>
+      <td><b>Research Associate,</b> University College Cork; Ireland</td>    
+    </tr>
+    </table>
+</body>
+</html>
+<br></br>
+
+
+<div class="line"></div>
+<h2>Teaching and supervision<h2>
+<h3>Undergraduate and postgraduate supervisor</h3>
+<head>
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_rsm"></div>
+  <table class="table_rsm">
+        <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Unak_Logo.png" onclick="window.open('')" class="img_rsm"></td>
+          <td><b>University of Akureyri:</b> Marine biotechnology </td>
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/UCC_Logo.png" onclick="window.open('')" class="img_rsm"></td>
+        <td><b>University College Cork:</b> Aquaculture; molecular genetics </td>
+    </tr>
+</table>
+<h3>Lectures</h3>
+<table class="table_rsm">
+  <tr>
+    <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Unak_Logo.png" onclick="window.open('')" class="img_rsm"></td>
+      <td><b>University of Akureyri:</b>  Biotechnology; evolution; sustainable resource management</td>
+</tr>
+<tr>
+  <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/UCC_Logo.png" onclick="window.open('')" class="img_rsm"></td>
+    <td><b>University College Cork:</b> Aquaculture </td>
+  </tr>
+  <tr>
+  <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Unak_Logo.png" onclick="window.open('')" class="img_rsm"></td>
+    <td><b>Adult Education Institute of the North West Iceland:</b> Spanish for beginners </td>
+  </tr>
+</table>
+</body>
+</html>
+<br></br>
+
+<div class="line"></div>
+<h2>Education</h2>
+<head>
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_rsm"></div>
+  <table class="table_rsm">
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/UCC_Logo.png" onclick="window.open('https://www.ucc.ie','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Ph.D.,</b> University College Cork; Ireland
+        <br>&ensp;&bull; <i>Molecular & population genetics &bull; Fish physiology</i>
+        </td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/RU_Logo.png" onclick="window.open('https://en.ru.is/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>MBA,</b> Reykjavik University; Iceland
+        <br>&ensp;&bull; <i>Business administration and management</i> 
+        </td>    
+    </tr>
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>B.Sc.,</b> University of Iceland; Iceland
+        <br>&ensp;&bull; <i>Biology</i>
+        </td>    
+    </tr>
+    </table>
+</body>
+</html>
+
+<br></br>
+ <!-- Footer: -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact me!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>

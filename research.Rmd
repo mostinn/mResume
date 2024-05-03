@@ -1,0 +1,117 @@
+---
+title: "_Research_"
+
+---
+
+<html lang="en">
+
+<h2>Research overview</h2>
+<thead>
+  <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</thead>
+<tbody>
+<body>
+   <div class="table_res"></div>
+  <table class="table_res">
+    <tr>
+      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Thraustar.png" onclick="window.open('')" class="img_res">
+      </td>
+      <td>
+        <b>Microbes</b>
+        <br>&bull; Isolated novel strains of marine microbes
+        <br>&bull; Described the evolutionary history of Thraustochytrids 
+      </td>   
+    </tr>
+    <tr>
+      <td>
+        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Karfi-n-cod.png" onclick="window.open('')" class="img_res">
+      </td>
+      <td>
+          <b>Populations</b>
+          <br>&bull; Molecular and population genetics of fish
+          <br>&bull; Evolutionary history of fish
+          <br>&bull; Population genetics of whale species
+          <br>&bull; Ancient DNA
+        </td>
+        </tr>
+       <tr>
+        <td> 
+        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/AtlanticHalibut-ImageFX.jpg" onclick="window.open('')" class="img_res">
+        </td>
+        <td>
+          <b>Fish culture</b>
+          <br>&bull; Social hierarchies 
+          <br>&bull; Growth
+          <br>&bull; Feed conversion efficiency
+          <br>&bull; Genetics of cultured fish 
+        </td>
+    </tr>
+    </table>
+</body>
+
+<br></br>
+
+<h2>R&D overview</h2> 
+
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+</head>
+<body>
+  <div class="table_rsm"></div>
+  <table class="table_rsm">
+    <tr>
+      <td>
+      <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Bioreactor.png" onclick="window.open('')" class="img_res">
+      </td>
+      <td>
+        <b>Marine biotechnology</b>
+        <br>&bull; Optimized pilot-scale microbial bioprocessing/fermentation
+        <br>&bull; Optimized lipogenesis for microbial omega-3 fatty acid synthesis
+        <br>&bull; Novel media formulation for microbial bioprocessing
+        </td>   
+      </tr>
+      <tr>
+        <td>
+        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Biosensor-ImageFx.jpg" onclick="window.open('')" class="img_res">
+        </td>
+        <td>
+          <b>Biosensors</b>
+          <br>&bull; Developed DNA-based affinity biosensors used to detect pathogenic bacteria
+          <br>&bull; Worked on microbial biosensor to measure BOD
+        </td>
+    <tr>
+      <td>
+        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/TurbotFry-n-Isochrysis-galbana.jpg" onclick="window.open('')" class="img_res">
+        </td>
+      <td>
+        <b>Aquaculture</b>
+        <br>&bull; Developed first marine fish hatchery in Ireland 
+        <br>&bull; Broodstock management
+        <br>&bull; Fertilization
+        <br>&bull; Metamorphosis
+        <br>&bull; Microalgae, rotifers, Artemia
+        <br>&bull; Turbot, halibut, cod
+      </td>
+    </tr>
+    </table>
+</body>
+
+<br></br>
+ <!-- Footer: -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact me!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>
+
