@@ -52,10 +52,10 @@ library(tidyverse)
 <body>
     <table style="margin-left: auto; margin-right: auto; width: 10%">
         <tr>
-            <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/linkedin.png" alt="Image description" style="width:25px;height:25px;" onclick="window.open('https://www.linkedin.com/in/mostinn/','_blank')"></th>
-            <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Orcid.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://orcid.org/my-orcid?orcid=0000-0002-5836-059X','_blank')">
+            <th><img src="SourceDocuments/linkedin.png" alt="Image description" style="width:25px;height:25px;" onclick="window.open('https://www.linkedin.com/in/mostinn/','_blank')"></th>
+            <th><img src="SourceDocuments/Orcid.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://orcid.org/my-orcid?orcid=0000-0002-5836-059X','_blank')">
 </th>
-            <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/ResearchGate.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://www.researchgate.net/profile/Magnus-Stefansson','_blank')"></th>
+            <th><img src="SourceDocuments/ResearchGate.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://www.researchgate.net/profile/Magnus-Stefansson','_blank')"></th>
         </tr>
     </table>
 </body>

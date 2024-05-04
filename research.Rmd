@@ -7,14 +7,14 @@ title: "_Research_"
 
 <h2>Research overview</h2>
 <thead>
-  <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+  <link rel="stylesheet" href="Styles.css">
 </thead>
 <tbody>
 <body>
    <div class="table_res"></div>
   <table class="table_res">
     <tr>
-      <td><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Thraustar.png" onclick="window.open('')" class="img_res">
+      <td><img src="SourceDocuments/Thraustar.png" onclick="window.open('')" class="img_res">
       </td>
       <td>
         <b>Microbes</b>
@@ -24,7 +24,7 @@ title: "_Research_"
     </tr>
     <tr>
       <td>
-        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Karfi-n-cod.png" onclick="window.open('')" class="img_res">
+        <img src="SourceDocuments/Karfi-n-cod.png" onclick="window.open('')" class="img_res">
       </td>
       <td>
           <b>Populations</b>
@@ -36,7 +36,7 @@ title: "_Research_"
         </tr>
        <tr>
         <td> 
-        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/AtlanticHalibut-ImageFX.jpg" onclick="window.open('')" class="img_res">
+        <img src="SourceDocuments/AtlanticHalibut-ImageFX.jpg" onclick="window.open('')" class="img_res">
         </td>
         <td>
           <b>Fish culture</b>
@@ -55,14 +55,14 @@ title: "_Research_"
 
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
   <div class="table_rsm"></div>
   <table class="table_rsm">
     <tr>
       <td>
-      <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Bioreactor.png" onclick="window.open('')" class="img_res">
+      <img src="SourceDocuments/Bioreactor.png" onclick="window.open('')" class="img_res">
       </td>
       <td>
         <b>Marine biotechnology</b>
@@ -73,7 +73,7 @@ title: "_Research_"
       </tr>
       <tr>
         <td>
-        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Biosensor-ImageFx.jpg" onclick="window.open('')" class="img_res">
+        <img src="SourceDocuments/Biosensor-ImageFx.jpg" onclick="window.open('')" class="img_res">
         </td>
         <td>
           <b>Biosensors</b>
@@ -82,7 +82,7 @@ title: "_Research_"
         </td>
     <tr>
       <td>
-        <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/TurbotFry-n-Isochrysis-galbana.jpg" onclick="window.open('')" class="img_res">
+        <img src="SourceDocuments/TurbotFry-n-Isochrysis-galbana.jpg" onclick="window.open('')" class="img_res">
         </td>
       <td>
         <b>Aquaculture</b>
@@ -103,7 +103,7 @@ title: "_Research_"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet"          href="Styles.css">
     <title>My Website</title>
 </head>
 <body>

@@ -10,17 +10,17 @@ title: "_Affiliations_"
   <title>Table Logo</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
   <div class="table_affil"></div>
 <table class="table_affil">
   <tr>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/ICES_Logo.png" alt="ICES_logo" onclick="window.open('https://www.ices.dk/Pages/default.aspx','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/EU3_Logo.jpeg" onclick="window.open('https://commission.europa.eu/index_en','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/BHM_Logo.jpeg" alt="BHM_logo" onclick="window.open('https://www.bhm.is/en','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Kopavogur_Logo.png" alt="Kopavogur_logo" onclick="window.open('https://www.kopavogur.is/','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/ICES_Logo.png" alt="ICES_logo" onclick="window.open('https://www.ices.dk/Pages/default.aspx','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/EU3_Logo.jpeg" onclick="window.open('https://commission.europa.eu/index_en','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/BHM_Logo.jpeg" alt="BHM_logo" onclick="window.open('https://www.bhm.is/en','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Kopavogur_Logo.png" alt="Kopavogur_logo" onclick="window.open('https://www.kopavogur.is/','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_affil"></th>
   </tr>
   </table>
 </body>
@@ -46,17 +46,17 @@ title: "_Affiliations_"
   <title>Table Logo</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
   <div class="table_affil"></div>
 <table class="table_affil">
   <tr>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/nList_Logo.jpg" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Lipidforum_Logo2.jpeg" alt="Lipidforum logo" onclick="window.open('https://lipidforum.info/','_blank')" class="img_affil"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/MK_Logo.svg" onclick="window.open('https://www.mk.is/um-skolann/ymislegt/english','_blank')"></th>
-    <th><img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/nList_Logo.jpg" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Lipidforum_Logo2.jpeg" alt="Lipidforum logo" onclick="window.open('https://lipidforum.info/','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/MK_Logo.svg" onclick="window.open('https://www.mk.is/um-skolann/ymislegt/english','_blank')"></th>
+    <th><img src="SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
   </tr>
   </table>
 </body>
@@ -67,7 +67,7 @@ title: "_Affiliations_"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet"          href="Styles.css">
     <title>My Website</title>
 </head>
 <body>
