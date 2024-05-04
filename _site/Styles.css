@@ -44,42 +44,9 @@ th, td {
 	}
 
  
-
-/*  ------------------ */
-
-.img_affil {
-	height: 65px;
-	width:auto;
-	padding: 0px 20px;
-}
-
-
-
-.img_affil {
-	height: 65px;
-	width:auto;
-	padding: 0px 20px;
-}
-
-.table_affil {
-	margin-left: 0; 
-	margin-right: auto; 
-	width: 100%;
-	table-layout: fixed;
-	}
-	th, td {
-	text-align: left;
-  	height:65px;
-  	width:auto;
-	}
-
-.line {
-  border-bottom: 2px solid lightgray; 
-  width: 100%; 
-}
-
+/* awards ------------------ */
 .img_awrds {
-	height: 65px;
+	height: 45px;
 	width:auto;
 	padding: 0px 20px;
 }
@@ -92,11 +59,35 @@ th, td {
 
 	th, td {
   vertical-align: left;
-  height:65px;
+  height:45px;
   width: auto;
 	}
 }
 
+/*  affiliations ---------- */
+.img_affil {
+	height: 45px;
+	width:auto;
+	padding: 0px 20px;
+}
+
+.table_affil {
+	margin-left: 0; 
+	margin-right: auto; 
+	width: 100%;
+	table-layout: fixed;
+	}
+	th, td {
+	text-align: left;
+  	height:45px;
+  	width:auto;
+	}
+
+/* line -------------------- */
+.line {
+  border-bottom: 2px solid lightgray; 
+  width: 100%; 
+}
  
 .skirt {
 	  width: 100%;

@@ -44,29 +44,19 @@ th, td {
 	}
 
  
-/* awards ------------------ */
-.img_awrds {
-	height: 45px;
+
+/*  ------------------ */
+
+.img_affil {
+	height: 65px;
 	width:auto;
 	padding: 0px 20px;
 }
 
-.table_logo {
-	margin-left: 0; 
-	margin-right: auto; 
-	width: 100%;
-	table-layout: fixed;
 
-	th, td {
-  vertical-align: left;
-  height:45px;
-  width: auto;
-	}
-}
 
-/*  affiliations ---------- */
 .img_affil {
-	height: 45px;
+	height: 65px;
 	width:auto;
 	padding: 0px 20px;
 }
@@ -79,15 +69,34 @@ th, td {
 	}
 	th, td {
 	text-align: left;
-  	height:45px;
+  	height:65px;
   	width:auto;
 	}
 
-/* line -------------------- */
 .line {
   border-bottom: 2px solid lightgray; 
   width: 100%; 
 }
+
+.img_awrds {
+	height: 65px;
+	width:auto;
+	padding: 0px 20px;
+}
+
+.table_logo {
+	margin-left: 0; 
+	margin-right: auto; 
+	width: 100%;
+	table-layout: fixed;
+
+	th, td {
+  vertical-align: left;
+  height:65px;
+  width: auto;
+	}
+}
+
  
 .skirt {
 	  width: 100%;
