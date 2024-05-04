@@ -36,7 +36,7 @@ library(tidyverse)
     <table style="margin-left: auto; margin-right: auto; width: 80%">
         <tr>
             <th> I am a scientist and an entrepreneur with a Ph.D. in genetics and an Executive MBA in business management. I've has focused my career on different aspects of environmental sustainability, ranging from natural resource management to sustainable bioprocessing. My efforts have supported economic growth and created novel business opportunities.</th>
-            <th> <img src="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/Figs/mostHeadShot.jpeg">   </th>
+            <th> <img src="SourceDocuments/mostHeadShot.jpeg">   </th>
         </tr>
     </table>
 </body>
@@ -88,7 +88,7 @@ mapWorkLocals
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet"          href="C:/Users/mosti/OneDrive/Documents/mProfessionalWebsite/mResume/Styles.css">
+    <link rel="stylesheet" href="Styles.css">
     <title>My Website</title>
 </head>
 <body>
