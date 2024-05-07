@@ -3,6 +3,40 @@ title: "Coda and textageymsla"
 output: html_notebook
 ---
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+<table class="table_index">
+      <tr>
+          <th><img src="SourceDocuments/linkedin.png" alt="Image description" style="width:40px;height:40px;" onclick="window.open('https://www.linkedin.com/in/mostinn/','_blank')"></th>
+          <th><img src="SourceDocuments/Orcid.png" alt="_" style="width:40px;height:40px;" onclick="window.open('https://orcid.org/my-orcid?orcid=0000-0002-5836-059X','_blank')"></th>
+          <th><img src="SourceDocuments/ResearchGate.png" alt="_" style="width:40px;height:40px;" onclick="window.open('https://www.researchgate.net/profile/Magnus-Stefansson','_blank')"></th>
+      </tr>
+</table>
+</body>
+</html>
+
+
+.img_index {
+	height: 40px;
+	width:40px;
+	padding: 0;
+	margin: 0;
+}
+
+.logos_index {
+	display:flex;
+	width: 100%; 
+	border: none;
+	justify-content: center;
+	text-align: center;
+	margin: 0;
+	}
+
 
 <html lang="en">
 <head>

@@ -31,38 +31,29 @@ library(tidyverse)
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
-    <table style="margin-left: auto; margin-right: auto; width: 80%">
+    <table style="margin-left: auto; margin-right: auto; width: 100%">
         <tr>
             <th> I am a scientist and an entrepreneur with a Ph.D. in genetics and an Executive MBA in business management. I've has focused my career on different aspects of environmental sustainability, ranging from natural resource management to sustainable bioprocessing. My efforts have supported economic growth and created novel business opportunities.</th>
             <th> <img src="SourceDocuments/mostHeadShot.jpeg">   </th>
         </tr>
     </table>
 </body>
-</html>
-
-<!-- Table with social media links: -->
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Styles.css">
 </head>
-<body>
-    <table style="margin-left: auto; margin-right: auto; width: 30%">
-        <tr>
-            <th><img src="SourceDocuments/linkedin.png" alt="Image description" style="width:25px;height:25px;" onclick="window.open('https://www.linkedin.com/in/mostinn/','_blank')"></th>
-            <th><img src="SourceDocuments/Orcid.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://orcid.org/my-orcid?orcid=0000-0002-5836-059X','_blank')">
-</th>
-            <th><img src="SourceDocuments/ResearchGate.png" alt="_" style="width:25px;height:25px;" onclick="window.open('https://www.researchgate.net/profile/Magnus-Stefansson','_blank')"></th>
-        </tr>
-    </table>
-</body>
-</html>
-
-<br></br>
+<div_element class="img_index">
+        <img src="SourceDocuments/linkedin.png" alt="_" class="img_index" onclick="window.open('https://www.linkedin.com/in/mostinn/','_blank')">
+        <img src="SourceDocuments/Orcid.png" alt="_" class="img_index" onclick="window.open('https://orcid.org/my-orcid?orcid=0000-0002-5836-059X','_blank')">
+        <img src="SourceDocuments/ResearchGate.png" alt="_" class="img_index" onclick="window.open('https://www.researchgate.net/profile/Magnus-Stefansson','_blank')">
+</div_element>
 
 <h1>Research around the world</h1>
+</html>
 
 ```{r mapWorkLocals, echo=F, warning=F, out.width = "100%", out.height="500px", fig.align="center"}
 # -----

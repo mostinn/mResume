@@ -14,8 +14,7 @@ navbar:
       href: affiliations.html
     - text: "Publications"
       href: publications.html
-    #- text: "Click Me!"
-      #href: practice.html
+
 output:
   html_document:
     theme: cosmo

@@ -1,10 +1,11 @@
 ---
-title: "_Affiliations_"
+title: "_Practice_"
 
 ---
+
+# Affiliations -- past and present
+
 <html lang="en">
-<h2> -- past and present </h2>
-<bt></br>
 <head>
   <title>Table Logo</title>
     <meta charset="UTF-8">
@@ -17,17 +18,12 @@ title: "_Affiliations_"
   <tr>
     <th><img src="SourceDocuments/ICES_Logo.png" alt="ICES_logo" onclick="window.open('https://www.ices.dk/Pages/default.aspx','_blank')" class="img_affil"></th>
     <th><img src="SourceDocuments/EU3_Logo.jpeg" onclick="window.open('https://commission.europa.eu/index_en','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Lipidforum_Logo2.jpeg" alt="Lipidforum logo" onclick="window.open('https://lipidforum.info/','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/MK_Logo.svg" onclick="window.open('https://www.mk.is/um-skolann/ymislegt/english','_blank')"></th>
+    <th><img src="SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_affil"></th>
   </tr>
   </table>
 </body>
-
-<table class="table_affil">
-  <tr>
-    <th><img src="SourceDocuments/BHM_Logo.jpeg" alt="BHM_logo" onclick="window.open('https://www.bhm.is/en','_blank')" class="img_affil"></th>
-    <th><img src="SourceDocuments/Kopavogur_Logo.png" alt="Kopavogur_logo" onclick="window.open('https://www.kopavogur.is/','_blank')" class="img_affil"></th>
-    <th><img src="SourceDocuments/HI_Logo.png" onclick="window.open('https://english.hi.is/','_blank')" class="img_affil"></th>
-  </tr>
-</table>
 <br></br>
 
 * <b>nList Publishing,</b> <i>Chair of Board of Directors</i>
@@ -58,17 +54,12 @@ title: "_Affiliations_"
   <tr>
     <th><img src="SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
     <th><img src="SourceDocuments/nList_Logo.jpg" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
-  <th><img src="SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/BHM_Logo.jpeg" alt="BHM_logo" onclick="window.open('https://www.bhm.is/en','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Kopavogur_Logo.png" alt="Kopavogur_logo" onclick="window.open('https://www.kopavogur.is/','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
   </tr>
   </table>
 </body>
-<table class="table_affil">
-  <tr>
-    <th><img src="SourceDocuments/Lipidforum_Logo2.jpeg" alt="Lipidforum logo" onclick="window.open('https://lipidforum.info/','_blank')" class="img_affil"></th>
-    <th><img src="SourceDocuments/MK_Logo.svg" alt="MK_Logo" onclick="window.open('https://www.mk.is/um-skolann/ymislegt/english','_blank')" class="img_affil"></th>
-  </tr>
-</table>
-</html>
 <br></br>
 
  <!-- Footer: -->
@@ -87,4 +78,3 @@ title: "_Affiliations_"
     </footer>
 </body>
 </html>
-

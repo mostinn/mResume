@@ -1,7 +1,6 @@
 ---
 title: "_Resume_"
 ---
-
 <html lang="en">
 
 <h2>Experience</h2>
