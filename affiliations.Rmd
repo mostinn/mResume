@@ -56,7 +56,7 @@ title: "_Affiliations_"
   <div class="table_affil"></div>
 <table class="table_affil">
   <tr>
-    <th><img src="SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
+    <th><img src="SourceDocuments/Iceview_Logo.png" alt="_logo" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_affil"></th>
     <th><img src="SourceDocuments/nList_Logo.jpg" alt="_logo" onclick="window.open('https://www.facebook.com/iceviewmagazine//','_blank')" class="img_affil"></th>
   <th><img src="SourceDocuments/Skagastrond_Logo.png" alt="Skagastrond_logo" onclick="window.open('https://www.northiceland.is/en/destinations/towns/skagastrond','_blank')" class="img_affil"></th>
   </tr>
