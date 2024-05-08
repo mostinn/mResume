@@ -1,6 +1,6 @@
 
 /* div element ------------- */
-div {
+.div_element {
 	border: 0;
 	padding: 0;
   }
@@ -22,26 +22,22 @@ div {
 .img_rsm {
 	height: auto;
 	width:50px;
-	padding: 2px 2px;
+	padding: 2px 0px;
 }
 
 .table_rsm {
-	display: flex;
+	margin-left: 0; 
+	margin-right: 0;
 	width: 100%; 
 	border: none;
-	text-align: left;
-	justify-content: left;
-	}
-	th, td {
-	text-align: left;
 	}
 	td:nth-child(1), th:nth-child(1) {
-		text-align: left;
-		padding: 5px 0px;
+		text-align: center;
+		padding: 2px 0px;
 	}
 	td:nth-child(2), th:nth-child(2) {
 		text-align: left;
-		padding: 5px 0px;
+		padding: 2px 0px;
 	}
 
 /* research ------------------ */
