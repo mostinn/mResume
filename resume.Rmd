@@ -1,6 +1,7 @@
 ---
 title: "_Resume_"
 ---
+
 <html lang="en">
 
 <h2>Experience</h2>
@@ -59,7 +60,6 @@ title: "_Resume_"
     </tr>
     </table>
 </body>
-</html>
 <br></br>
 
 
@@ -96,8 +96,49 @@ title: "_Resume_"
   </tr>
 </table>
 </body>
-</html>
 <br></br>
+
+
+<div class="line"></div>
+<h2>Advice</h2>
+<head>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+  <div class="table_rsm"></div>
+  <table class="table_rsm">
+    <tr>
+      <td><img src="SourceDocuments/Government-of-Iceland-Skjaldamerki_Logo.png" onclick="window.open('https://www.government.is/ministries/ministry-of-food-agriculture-and-fisheries/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Government of Iceland,</b> 
+        <br>&ensp;&bull; Redfish (<i>Sebastes mentella</i> and <i>S. marinus</i>)
+        </td>    
+    </tr>
+    <tr>
+      <td><img src="SourceDocuments/ICES_Logo.png" alt="ICES_logo" onclick="window.open('https://www.ices.dk/Pages/default.aspx','_blank')" class="img_rsm"></td>
+      <td>
+        <b>International Council for the Exploration of the Sea</b>
+        <br>&ensp;&bull; Redfish (<i>Sebastes mentella</i> and <i>S. marinus</i>)
+        </td>    
+    </tr>
+    <tr>
+      <td><img src="SourceDocuments/IWC_Logo.png" onclick="window.open('https://iwc.int/en/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>International Whaling Commission</b>
+        <br>&ensp;&bull; Fin whale (<i>Balaenoptera physalus</i>) and minke whale (<i>Balaenoptera acutorostrata</i>)
+        </td>    
+    </tr>
+    <tr>
+      <td><img src="SourceDocuments/nammco-logo.png" onclick="window.open('https://nammco.no/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>North Atlantic Marine Mammal Commission</b>
+        <br>&ensp;&bull; Fin whale (<i>Balaenoptera physalus</i>)
+        </td>    
+    </tr>
+    </table>
+</body>
+<br></br>
+
 
 <div class="line"></div>
 <h2>Education</h2>
@@ -130,6 +171,8 @@ title: "_Resume_"
     </tr>
     </table>
 </body>
+</html>
+<div class="line"></div>
 </html>
 
 <br></br>
