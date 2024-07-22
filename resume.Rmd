@@ -1,6 +1,7 @@
 ---
 title: "_Resume_"
 ---
+```html
 
 <html lang="en">
 
@@ -14,6 +15,11 @@ title: "_Resume_"
 <body>
   <div class="table_rsm"></div>
   <table class="table_rsm">
+    <tr>
+      <td><img src="SourceDocuments/Regeneration+Cycle+v3.jpg" onclick="window.open('Regeneration+Cycle+v3.jpg','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Founder and General Manager,</b> Freymar LLC; Sturbridge, MA
+      </td>
     <tr>
       <td><img src="SourceDocuments/nList-Only_Logo.png" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_rsm"></td>
       <td>
@@ -100,7 +106,7 @@ title: "_Resume_"
 
 
 <div class="line"></div>
-<h2>Advice</h2>
+<h2>Management advice</h2>
 <head>
     <link rel="stylesheet" href="Styles.css">
 </head>
