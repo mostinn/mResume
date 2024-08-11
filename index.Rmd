@@ -66,7 +66,7 @@ ResearchAroundTheWorld_Data <- ResearchAroundTheWorld_Data%>%mutate(popup_Resear
 mapWorkLocals <- leaflet() %>% 
    addProviderTiles(providers$Esri.WorldShadedRelief) %>%         #_https://leaflet-extras.github.io/leaflet-providers/preview/
   #addTiles() %>% 
-  setView(lng = -15, lat = 50, zoom = 3) %>%
+  setView(lng = -35, lat = 50, zoom = 2) %>%
   addCircleMarkers(data = ResearchAroundTheWorld_Data, lat = ~Lat, lng = ~Lon, radius = ~7, popup  = ~popup_ResearchAroundTheWorld, color = "Black")
 mapWorkLocals
 
