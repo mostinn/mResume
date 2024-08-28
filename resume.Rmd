@@ -41,7 +41,7 @@ title: "_Resume_"
     <tr>
       <td><img src="SourceDocuments/Iceview_Logo.png" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_rsm"></td>
       <td>
-        <b>Founder and Managing Editor,</b> Iceview Magazine; Iceland
+        <b>Founder & Managing Editor,</b> Iceview Magazine; Iceland
       </td>    
     </tr>
     <tr>
