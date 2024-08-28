@@ -17,12 +17,7 @@ title: "_Resume_"
     <tr>
       <td><img src="SourceDocuments/Regeneration+Cycle+v3.jpg" onclick="window.open('Regeneration+Cycle+v3.jpg','_blank')" class="img_rsm"></td>
       <td>
-        <b>Founder and General Manager,</b> Freymar LLC; Sturbridge, MA
-      </td>
-    <tr>
-      <td><img src="SourceDocuments/nList-Only_Logo.png" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_rsm"></td>
-      <td>
-        <b>Consulting Scientist,</b> nList; Sturbridge, MA
+        <b>Founder & General Manager,</b> Freymar LLC; Sturbridge, MA
       </td>
     </tr>  
     <tr>
@@ -36,6 +31,12 @@ title: "_Resume_"
       <td>
         <b>Research Manager,</b> Harvard University; Cambridge, MA
       </td>    
+    </tr>
+    <tr>
+      <td><img src="SourceDocuments/nList-Only_Logo.png" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_rsm"></td>
+      <td>
+        <b>Consulting Scientist,</b> nList; Sturbridge, MA
+      </td>
     </tr>
     <tr>
       <td><img src="SourceDocuments/Iceview_Logo.png" onclick="window.open('https://www.stackmagazines.com/literature/iceview-magazine-explores-travel-art-literature/','_blank')" class="img_rsm"></td>
